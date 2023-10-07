@@ -27,14 +27,14 @@ Choose your version:
 I tested on following platforms:
 
 Raspberry Pi 4B / Compute Module CM4:
-- LibreELEC 10.0.4 with inputstream.ffmpegdirect-19.0.3-linux-armv7.zip
-- LibreELEC 11.0.3 with inputstream.ffmpegdirect-20.5.0-linux-armv7.zip
-- LibreELEC 12.0 nightly 20231006 with inputstream.ffmpegdirect-21.2.0-linux-aarch64.zip (it's a 64-Bit version)
-- XBian 2023.09.29 with inputstream.ffmpegdirect-20.5.0-linux-armv7.zip<br>
+- LibreELEC 10.0.4 with [inputstream.ffmpegdirect-19.0.3-linux-armv7.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-19.0.3-linux-armv7.zip)
+- LibreELEC 11.0.3 with [inputstream.ffmpegdirect-20.5.0-linux-armv7.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-armv7.zip)
+- LibreELEC 12.0 nightly 20231006 with [inputstream.ffmpegdirect-21.2.0-linux-aarch64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-21.2.0-linux-aarch64.zip) (it's a 64-Bit version)
+- XBian 2023.09.29 with [inputstream.ffmpegdirect-20.5.0-linux-armv7.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-armv7.zip)<br>
   Here I had to install libatomic1 via 'sudo apt install libatomic1' to make it work.
-- OSMC 2023.08-1 with inputstream.ffmpegdirect-20.5.0-linux-armv7.zip
+- OSMC 2023.08-1 with [inputstream.ffmpegdirect-20.5.0-linux-armv7.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-armv7.zip)
 
 PC:
-- Ubuntu 20.04.3 LTS with Kodi 20.2 and inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip
-- LibreELEC 11.0.3 with inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip
-- LibreELEC 12.0 nightly 20231007 with inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip
+- Ubuntu 20.04.3 LTS with Kodi 20.2 and [inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip)
+- LibreELEC 11.0.3 with [inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip)
+- LibreELEC 12.0 nightly 20231007 with [inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip)
