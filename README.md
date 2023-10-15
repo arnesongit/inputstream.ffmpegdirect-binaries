@@ -22,7 +22,8 @@ Choose your version:
 - armv7 is for Linux on 32-Bit ARM platforms like Raspberry Pi 4B / Compute Module CM4 / LibreELEC 10 or 11 on RPi4
 - aarch64 is for Linux on 64-Bit ARM platforms like XBian for Raspberry Pi or LibreELEC 12 Alpha
 - x86_64 is for Linux on a 64-Bit Linux distribution for PC hardware.<br>
-  It's compiled for [Ubuntu 20.04.3 LTS](https://ubuntu.com/download/desktop). Other 64-Bit Linux versions will probably work.
+  It's compiled for [Ubuntu 22.04.3 LTS](https://ubuntu.com/download/desktop). Other 64-Bit Linux versions will probably work.<br>
+  The version for LibreELEC 10.0.4 is compiled on Ubuntu [20.04.6 LTS](https://ubuntu.com/download/desktop/thank-you?version=20.04.6&architecture=amd64), because it need older glibc libraries.
 
 I tested on following platforms:
 
@@ -36,5 +37,6 @@ Raspberry Pi 4B / Compute Module CM4:
 
 PC:
 - Ubuntu 20.04.3 LTS with Kodi 20.2 and [inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip)
+- LibreELEC 10.0.4 with [inputstream.ffmpegdirect-19.0.3-LE10-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-19.0.3-LE10-x86_64.zip)
 - LibreELEC 11.0.3 with [inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip)
 - LibreELEC 12.0 nightly 20231007 with [inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip)
