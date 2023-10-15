@@ -17,8 +17,8 @@ Choose your version:
 
 - 19.0.3 is for Kodi Matrix
 - 20.5.0 is for Kodi Nexus
-- 21.2.0 is for Kodi Omega (Alpha)
-<br>
+- 21.2.0 is for Kodi Omega (Alpha)<br><br>
+
 - armv7 is for Linux on 32-Bit ARM platforms like Raspberry Pi 4B / Compute Module CM4 / LibreELEC 10 or 11 on RPi4
 - aarch64 is for Linux on 64-Bit ARM platforms like XBian for Raspberry Pi or LibreELEC 12 Alpha
 - x86_64 is for Linux on a 64-Bit Linux distribution for PC hardware.<br>
