@@ -18,11 +18,12 @@ Choose your version:
 - 19.0.3 is for Kodi Matrix
 - 20.5.0 is for Kodi Nexus
 - 21.2.0 is for Kodi Omega (Alpha)
-<p>
+<br>
 - armv7 is for Linux on 32-Bit ARM platforms like Raspberry Pi 4B / Compute Module CM4 / LibreELEC 10 or 11 on RPi4
 - aarch64 is for Linux on 64-Bit ARM platforms like XBian for Raspberry Pi or LibreELEC 12 Alpha
 - x86_64 is for Linux on a 64-Bit Linux distribution for PC hardware.<br>
   It's compiled for [Ubuntu 22.04.3 LTS](https://ubuntu.com/download/desktop). Other 64-Bit Linux versions will probably work.
+  The version for LibreELEC 10.0.4 is compiled on [Ubuntu 20.04.6 LTS](https://ubuntu.com/download/desktop/thank-you?version=20.04.6&architecture=amd64), because it needs older glibc versions.
 
 I tested on following platforms:
 
