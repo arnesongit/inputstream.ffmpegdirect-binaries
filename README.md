@@ -17,7 +17,8 @@ Choose your version:
 
 - 19.0.3 is for Kodi Matrix
 - 20.5.0 is for Kodi Nexus
-- 21.2.0 is for Kodi Omega (Alpha)<br><br>
+- 21.2.0 is for Kodi Omega (Alpha)
+- 21.3.5 is for Kodi Omega<br><br>
 
 - armv7 is for Linux on 32-Bit ARM platforms like Raspberry Pi 4B / Compute Module CM4 / LibreELEC 10 or 11 on RPi4
 - aarch64 is for Linux on 64-Bit ARM platforms like XBian for Raspberry Pi or LibreELEC 12 Alpha
@@ -40,3 +41,4 @@ PC:
 - LibreELEC 10.0.4 with [inputstream.ffmpegdirect-19.0.3-LE10-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-19.0.3-LE10-x86_64.zip)
 - LibreELEC 11.0.3 with [inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-20.5.0-linux-x86_64.zip)
 - LibreELEC 12.0 nightly 20231007 with [inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-21.2.0-linux-x86_64.zip)
+- LibreELEC 12.0.0 with [inputstream.ffmpegdirect-21.3.5-linux-x86_64.zip](https://github.com/arnesongit/inputstream.ffmpegdirect-binaries/raw/main/inputstream.ffmpegdirect-21.3.5-linux-x86_64.zip)
